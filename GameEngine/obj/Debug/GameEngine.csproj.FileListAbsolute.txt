@@ -29,6 +29,10 @@ I:\Development\CSharp Projects\Mario\GameEngine\obj\Debug\GameEngine.dll
 I:\Development\CSharp Projects\Mario\GameEngine\obj\Debug\GameEngine.pdb
 I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\GameEngine.dll
 I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\GameEngine.pdb
+I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\sfmlnet-system-2.dll
+I:\Development\CSharp Projects\SuperMarioBros\GameEngine\bin\Debug\sfmlnet-window-2.dll
 I:\Development\CSharp Projects\SuperMarioBros\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
 I:\Development\CSharp Projects\SuperMarioBros\GameEngine\obj\Debug\GameEngine.dll
 I:\Development\CSharp Projects\SuperMarioBros\GameEngine\obj\Debug\GameEngine.pdb
