@@ -6,6 +6,7 @@
 /[Oo]bj/
 /bin/
 /Game/bin/Debug/
+/Game/obj/Debug/
 
 *.csproj
 *.unityproj
@@ -18,3 +19,4 @@
 *.svd
 *.vspscc
 *.vssscc
+Game/obj/
